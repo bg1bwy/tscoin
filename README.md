@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WELCOME TO GITHUB PAGES
 
 You can use the [editor on GitHub](https://github.com/bg1bwy/tscoin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
